@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509216444915",
+    "project_id": "movie-wallet",
+    "storage_bucket": "movie-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509216444915:android:bdb7a2cfd50c21f2e38286",
+        "android_client_info": {
+          "package_name": "com.snlucas.movie_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509216444915-kv8sp87aph8kjf26jm59cfha54ch9vm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemi-SOes3gxtyPpvJ76ngf8-wJGU-vT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509216444915-kv8sp87aph8kjf26jm59cfha54ch9vm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
